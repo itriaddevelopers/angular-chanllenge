@@ -23,14 +23,17 @@ Jack deseja:
 
 O projeto deve utilizar webpack e deve ser desenvolvido em Angularjs ou Angular2+.
 
-O Front-End pode utilizar Material UI: https://material-ui-next.com/
+O Front-End pode utilizar Material UI: https://material-ui-next.com/ mas fique livre para desenvolver a interface da forma que você desejar.
 
 Os dados parar elaboração do aplicativo poderão ser consumidos da API Rest https://swapi.co/.
 
 Poderão ser utilizadas outras fontes de dados ou mídia para enriquecer a interface. 
 
-Criar o backend não é o foco deste teste, portanto é importante usar a API mencionada parar não perder tempo neste quesito. 
-(https://swapi.co/ ) 
+Disponibilize o aplicativo na plataforma [Heroku](https://www.heroku.com) e envie seu Nome e o link parar o aplicativo para: alex.melo@itriad.org.br.
+
+Use o contato do Alex (alex.melo@itriad.org.br) parar sanar qualquer dúvida.
+
+Criar o backend não é o foco deste teste, portanto é importante usar a API mencionada parar não perder tempo nesta questão.
 
 ## Bônus
 
