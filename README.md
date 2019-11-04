@@ -25,23 +25,23 @@ O projeto deve utilizar webpack e deve ser desenvolvido em Angularjs ou Angular2
 
 O Front-End pode utilizar Material UI: https://material-ui-next.com/ mas fique livre para desenvolver a interface da forma que você desejar.
 
-Os dados parar elaboração do aplicativo poderão ser consumidos da API Rest https://swapi.co/.
+Os dados para elaboração do aplicativo poderão ser consumidos da API Rest https://swapi.co/.
 
 Poderão ser utilizadas outras fontes de dados ou mídia para enriquecer a interface. 
 
-Disponibilize o aplicativo na plataforma [Heroku](https://www.heroku.com) e envie seu nome, link para o repositório github e o link parar o aplicativo para: alex.melo@itriad.org.br.
+Disponibilize o aplicativo na plataforma [Heroku](https://www.heroku.com) e envie seu nome, link para o repositório github e o link do aplicativo para: alex.melo@itriad.org.br.
 
-Seu readme.md deve conter as instruções parar buildar e servir o aplicativo.
+Seu readme.md deve conter as instruções para buildar e servir o aplicativo.
 
-Use o contato do Alex (alex.melo@itriad.org.br) parar sanar qualquer dúvida.
+Use o contato do Alex (alex.melo@itriad.org.br) para sanar qualquer dúvida.
 
-Criar o backend não é o foco deste teste, portanto é importante usar a API mencionada parar não perder tempo nesta questão.
+Criar o backend não é o foco deste teste, portanto é importante usar a API mencionada para não perder tempo nesta questão.
 
 ## Bônus
 
 Os aspectos abaixo contam como um bônus para você:
 
-* Incluir navegação de mídia ( audio, video )
+* Incluir navegação de mídia ( áudio, vídeo )
 * Práticas TTD, ATDD ou semelhantes são extremamente bem vindas.
 * Organização e clareza nas ideias.
 * Menos é mais, seja prático e não perca tempo com aspectos desnecessários.
