@@ -29,7 +29,9 @@ Os dados parar elaboração do aplicativo poderão ser consumidos da API Rest ht
 
 Poderão ser utilizadas outras fontes de dados ou mídia para enriquecer a interface. 
 
-Disponibilize o aplicativo na plataforma [Heroku](https://www.heroku.com) e envie seu Nome e o link parar o aplicativo para: alex.melo@itriad.org.br.
+Disponibilize o aplicativo na plataforma [Heroku](https://www.heroku.com) e envie seu nome, link para o repositório github e o link parar o aplicativo para: alex.melo@itriad.org.br.
+
+Seu readme.md deve conter as instruções parar buildar e servir o aplicativo.
 
 Use o contato do Alex (alex.melo@itriad.org.br) parar sanar qualquer dúvida.
 
