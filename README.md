@@ -23,7 +23,7 @@ Jack deseja:
 
 O projeto deve utilizar webpack e deve ser desenvolvido em Angularjs ou Angular2+.
 
-O Front-End pode utilizar Material UI: https://material-ui-next.com/ mas fique livre para desenvolver a interface da forma que você desejar.
+O Front-End pode utilizar Angular Material: https://material.angular.io/ mas fique livre para desenvolver a interface da forma que você desejar.
 
 Os dados para elaboração do aplicativo poderão ser consumidos da API Rest https://swapi.co/.
 
