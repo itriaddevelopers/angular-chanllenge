@@ -29,11 +29,11 @@ Os dados para elaboração do aplicativo poderão ser consumidos da API Rest htt
 
 Poderão ser utilizadas outras fontes de dados ou mídia para enriquecer a interface. 
 
-Disponibilize o aplicativo na plataforma [Heroku](https://www.heroku.com) e envie seu nome, link para o repositório github e o link do aplicativo para: alex.melo@itriad.org.br.
+Disponibilize o aplicativo na plataforma [Heroku](https://www.heroku.com) e envie seu nome, link para o repositório github e o link do aplicativo para: desafio@itriad.org.br.
 
 Seu readme.md deve conter as instruções para buildar e servir o aplicativo.
 
-Use o contato do Alex (alex.melo@itriad.org.br) para sanar qualquer dúvida.
+Use o contato do Alex (desafio@itriad.org.br) para sanar qualquer dúvida.
 
 Criar o backend não é o foco deste teste, portanto é importante usar a API mencionada para não perder tempo nesta questão.
 
