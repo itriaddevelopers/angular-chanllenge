@@ -33,7 +33,7 @@ Disponibilize o aplicativo na plataforma [Heroku](https://www.heroku.com) e envi
 
 Seu readme.md deve conter as instruções para buildar e servir o aplicativo.
 
-Use o contato do Alex (desafio@itriad.org.br) para sanar qualquer dúvida.
+Use o contato do Alex (alex.melo@itriad.org.br) para sanar qualquer dúvida.
 
 Criar o backend não é o foco deste teste, portanto é importante usar a API mencionada para não perder tempo nesta questão.
 
