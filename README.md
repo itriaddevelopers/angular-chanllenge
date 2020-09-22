@@ -25,7 +25,7 @@ O projeto deve utilizar webpack e deve ser desenvolvido em Angularjs ou Angular2
 
 O Front-End pode utilizar Angular Material: https://material.angular.io/ mas fique livre para desenvolver a interface da forma que você desejar.
 
-Os dados para elaboração do aplicativo poderão ser consumidos da API Rest https://swapi.co/.
+Os dados para elaboração do aplicativo poderão ser consumidos da API Rest https://swapi.dev/.
 
 Poderão ser utilizadas outras fontes de dados ou mídia para enriquecer a interface. 
 
